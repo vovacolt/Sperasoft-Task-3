@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sperasoft_Task_3_Ch", "Sperasoft_Task_3_Ch\Sperasoft_Task_3_Ch.csproj", "{ABBD4493-8BB9-45F8-B7C4-174C9B062549}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABBD4493-8BB9-45F8-B7C4-174C9B062549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABBD4493-8BB9-45F8-B7C4-174C9B062549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABBD4493-8BB9-45F8-B7C4-174C9B062549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABBD4493-8BB9-45F8-B7C4-174C9B062549}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C971C908-9AA3-4F3C-A1E9-CF35DBAC7D66}
+	EndGlobalSection
+EndGlobal
